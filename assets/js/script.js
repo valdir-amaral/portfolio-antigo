@@ -1,7 +1,9 @@
 
 function legendahtml() {
     var paragrafo = window.document.getElementById("texto-habilidade");
+    paragrafo.style.fontSize = '15pt'
     paragrafo.innerHTML = 'HTML: É a linguagem de marcação para páginas web. Tenho conhecimentos básicos, mas continuo aprimorando todos os dias!'
+
 }
 function legendaexcel() {
     var paragrafo = window.document.getElementById("texto-habilidade");
@@ -9,7 +11,7 @@ function legendaexcel() {
 }
 function legendacss() {
     var paragrafo = window.document.getElementById("texto-habilidade");
-    paragrafo.innerHTML = 'CSS: É a linguagem de estilo para integrar em arquivos HTML. Tenho noções das propriedades básicas, mas ainda tenho dificuldade em tornar o site responsivo - detalhe: esse portfólio utiliza elementos do framework CSS Bulma.'
+    paragrafo.innerHTML = 'CSS: É a linguagem de estilo para integrar em arquivos HTML. Tenho noções das propriedades básicas, mas ainda tenho dificuldade em tornar o site responsivo, por exemplo - detalhe: esse portfólio utiliza elementos do framework CSS Bulma.'
 }
 function legendajs() {
     var paragrafo = window.document.getElementById("texto-habilidade");
