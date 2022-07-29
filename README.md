@@ -7,4 +7,4 @@
 
 Valdir Júnior Amaral
 
-https://www.linkedin.com/in/valdir-j%C3%BAnior-amaral-77375621a/
+https://www.linkedin.com/in/valdir-amaral/
