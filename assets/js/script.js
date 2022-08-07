@@ -7,7 +7,7 @@ function legendahtml() {
 }
 function legendaexcel() {
     var paragrafo = window.document.getElementById("texto-habilidade");
-    paragrafo.innerHTML = 'Excel: Tenho certificação da Microsoft do uso do Excel (editor de planilhas eletrônicas) e outras ferramentas do Office. Agora sigo estudando para em breve ser capaz de criar dashboards interativos e macros com VBA.'
+    paragrafo.innerHTML = 'Excel: Tenho certificação da Microsoft do uso do Excel (editor de planilhas eletrônicas) e outras ferramentas do Office. Agora sigo estudando para em breve ser capaz de criar dashboards interativos com PowerBI.'
 }
 function legendacss() {
     var paragrafo = window.document.getElementById("texto-habilidade");
