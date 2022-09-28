@@ -178,6 +178,8 @@ h2 {
 progress {
     margin-top: 50px;
 }
+
+
 @media screen and (max-width:1025px) {
     #apresentacao-secao {
         height: 600px;
