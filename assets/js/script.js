@@ -19,7 +19,7 @@ function legendajs() {
 }
 function legendaingles() {
     var paragrafo = window.document.getElementById("texto-habilidade");
-    paragrafo.innerHTML = 'Língua inglesa: Tenho certificado de inglês intermediário B2, seguindo métricas da EF SET. Consigo ler e escrever textos (às vezes com pequenas dúvidas) e ouvir. Estou em busca de evoluir meu inglês fluentemente em comunicação.'
+    paragrafo.innerHTML = 'Língua inglesa: Tenho certificado de inglês intermediário B2, seguindo métricas da EF SET. Consigo ler e escrever textos (às vezes com pequenas dúvidas) e ouvir. Estou em busca de evoluir meu inglês fluentemente na comunicação.'
 }
 function legendaescrita() {
     var paragrafo = window.document.getElementById("texto-habilidade");
